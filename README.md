@@ -8,5 +8,5 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </span>
-<br />
+<br>
 <p>You can contact me through my e-mail (thiago.arend@gmail.com) or linkedin (https://www.linkedin.com/in/thiagoarend/)</p>

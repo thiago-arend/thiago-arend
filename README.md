@@ -8,7 +8,7 @@
 </span>
 <h1>Welcome to my GitHub profile, visitor!</h1>
 <p>My name is Thiago Arend</p>
-<p>I'm a Computer Science undergrad student at <em>Federal University of Rio Grande do Sul</em></p>
+<p>I'm a Computer Science undergrad student at Federal University of Rio Grande do Sul</p>
 <p>Here you will find some of the repos I'm currently developing.</p>
 <p>My major interests are <strong>JavaScript, HTML, CSS, React and Java</strong>.</p>
 <p>Most part of my projects are built in <strong>JavaScript, React, HTML and CSS</strong>.</p>

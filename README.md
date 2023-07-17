@@ -14,4 +14,4 @@
 <p>Most part of my projects are built in <strong>JavaScript, React, HTML and CSS</strong>.</p>
 <p>You can contact me through my <strong>e-mail</strong> (thiago.arend@gmail.com) or <strong>linkedin</strong> (https://www.linkedin.com/in/thiagoarend/)</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-arend)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-arend)](https://github.com/anuraghazra/github-readme-stats)&show_icons=true

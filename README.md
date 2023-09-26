@@ -11,7 +11,7 @@
 <p>I'm a Computer Science undergrad student at Federal University of Rio Grande do Sul.</p>
 <p>Here you will find some of the repos I'm currently developing.</p>
 <p>My major interests are <strong>JavaScript, HTML, CSS, React and Java</strong>.</p>
-<p>Most part of my projects are built in <strong>JavaScript, React, HTML and CSS</strong>.</p>
+<p>Most part of my projects are built in <strong>JavaScript, TypeScript, React, HTML and CSS</strong>.</p>
 <p>You can contact me through my <strong>e-mail</strong> (thiago.arend@gmail.com) or <strong>linkedin</strong> (https://www.linkedin.com/in/thiagoarend/)</p>
 
 <picture>

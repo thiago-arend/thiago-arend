@@ -6,6 +6,7 @@
 - 🧑 I'm a Software Developer.
 - 🌱 I’m currently learning Java and Spring Framework.
 - 😄 Pronouns: He/Him.
+- 📫 How to reach me *thiago.arend@gmail.com*
 - ⚡ Fun fact: I absolutely love the bioshock videogame franchise!
 
 ## 💻 I'm currently working with
@@ -36,8 +37,3 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago-arend&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="195px" alt="languages graph"  />
       </p>
 </details>
-
-
-
-## 📫 How to reach me
-[![Send Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.arend@gmail.com)  <a href="https://www.linkedin.com/in/thiago-arend/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

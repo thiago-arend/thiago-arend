@@ -1,7 +1,5 @@
 ### Hello there! 🙋
 
-<img align="right" alt="GIF" src="./cat-computer.gif" width="150" />
-
 ### My name is Thiago.
 - 🧑 I'm a Software Developer.
 - 🌱 I’m currently learning Java and Spring Framework.
